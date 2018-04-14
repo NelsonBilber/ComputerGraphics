@@ -1,7 +1,7 @@
 # Computer Graphics
 
 
-[Open GL](https://github.com/NelsonBilber/CG/blob/master/opengl.md)
+[Open GL](https://github.com/NelsonBilber/CG/blob/master/open_gl.md)
 
 [Direct X](https://github.com/NelsonBilber/CG/blob/master/direct_x.md)
 
