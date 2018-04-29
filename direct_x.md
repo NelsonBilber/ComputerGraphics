@@ -13,4 +13,3 @@ Explore computer graphics API's
 	* [Textures](https://github.com/NelsonBilber/cg.directx) <br/>
 	* [Quaternions](https://github.com/NelsonBilber/cg.directx) <br/>
 
-<b>Quaternions</b>

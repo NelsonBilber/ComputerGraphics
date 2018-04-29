@@ -1,5 +1,17 @@
 # Computer Graphics
 
+This repository list source code about Computer Graphics. Has source code examples using OpenGL, DirectX and Game Engine UE4.
+
+- Basic Window Setup
+- Computer Graphics Pipeline
+- Matrix Projection
+- Normal Mapping
+- Shadow Mapping
+- Shaders
+- Depth Buffer
+- Color Blending
+- Textures
+
 
 [Open GL](https://github.com/NelsonBilber/CG/blob/master/open_gl.md)
 
