@@ -1,5 +1,5 @@
 ## Open GL
-The source code in this repository is the result of study from [http://www.opengl-tutorial.org](http://http://www.opengl-tutorial.org) and cover the following topics:
+The source code in this repository is the result of study from [https://www.opengl-tutorial.org/](https://www.opengl-tutorial.org/) and cover the following topics:
 
 * 01 - Create window
 * 02 - Draw a Triangle
