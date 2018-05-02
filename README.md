@@ -12,13 +12,9 @@ This repository list source code about Computer Graphics. Has source code exampl
 - Color Blending
 - Textures
 
-### Links
+### Source Code Examples
 
 [Open GL](https://github.com/NelsonBilber/CG/blob/master/open_gl.md)
-
 [Direct X](https://github.com/NelsonBilber/CG/blob/master/direct_x.md)
-
-[Math](https://github.com/NelsonBilber/CG/blob/master/math.md)
-
 [Unreal Engine 4](https://github.com/NelsonBilber/CG/blob/master/unreal_engine.md)
-
+[Math](https://github.com/NelsonBilber/CG/blob/master/math.md)
