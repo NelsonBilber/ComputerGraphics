@@ -16,4 +16,6 @@ Explore computer graphics API's
 	
 #### Gallery
 
-![How Many trinagles ? 512x397](https://github.com/NelsonBilber/CG/blob/master/imgs/triangles.gif)
+
+<img src="https://github.com/NelsonBilber/CG/blob/master/imgs/triangles.gif" height="200px" />
+
