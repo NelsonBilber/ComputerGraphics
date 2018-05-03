@@ -12,4 +12,8 @@ Explore computer graphics API's
 	* [Color Blending](https://github.com/NelsonBilber/cg.directx) <br/>
 	* [Textures](https://github.com/NelsonBilber/cg.directx) <br/>
 	* [Quaternions](https://github.com/NelsonBilber/cg.directx) <br/>
+	
+	
+#### Gallery
 
+![How Many trinagles ? ](https://github.com/NelsonBilber/cg.directx/imgs/triangles.gif)
