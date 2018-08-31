@@ -1,0 +1,45 @@
+#+title: Computer Graphics
+#+author: Nelson Bilber Rodrigues
+
+
+This repository aims to explore Computer Graphics concepts and tools.
+
+** API's and Shaders
+
+Research how low level API's work, what is needed to make a simple game loop, rotate some cubes, work with light and projections.
+
+- Basic Window Setup
+- Computer Graphics Pipeline
+- Matrix Projection
+- Normal Mapping
+- Shadow Mapping
+- Shaders
+- Depth Buffer
+- Color Blending
+- Textures
+
+[[https://github.com/NelsonBilber/CG/blob/master/open_gl.md][Open GL]]
+
+[[Https://github.com/NelsonBilber/CG/blob/master/direct_x.md][Direct X]]
+
+
+** Game Engines
+
+
+*** Unreal Engine 
+
+Samples and drafts about code from udemy course "The Unreal Engine Developer Course"
+
+[[https://github.com/NelsonBilber/CG/blob/master/unreal_engine.md][UnrealEngine 4]] 
+
+
+*** Unity
+
+Code from Udemy Course " Game Physics - Introduction Gravitation and Rotation in Unity "
+
+[[https://github.com/NelsonBilber/CG/blob/master/math.md][Math]] 
+
+
+** Math tricks
+
+[[https://github.com/NelsonBilber/CG/blob/master/math.md][Math]] 
