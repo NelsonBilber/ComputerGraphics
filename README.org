@@ -4,7 +4,7 @@
 
 This repository aims to explore Computer Graphics concepts and tools.
 
-** API's and Shaders
+*** API's and Shaders
 
 Research how low level API's work, what is needed to make a simple game loop, rotate some cubes, work with light and projections.
 
@@ -23,23 +23,23 @@ Research how low level API's work, what is needed to make a simple game loop, ro
 [[Https://github.com/NelsonBilber/CG/blob/master/docs/direct_x.md][Direct X]]
 
 
-** Game Engines
+*** Game Engines
 
 
-*** Unreal Engine 
+**** Unreal Engine 
 
 Samples and drafts about code from udemy course "The Unreal Engine Developer Course"
 
 [[https://github.com/NelsonBilber/CG/blob/master/docs/unreal_engine.md][UnrealEngine 4]] 
 
 
-*** Unity
+**** Unity
 
 Code from Udemy Course " Game Physics - Introduction Gravitation and Rotation in Unity "
 
 [[https://github.com/NelsonBilber/CG/blob/master/docs/math.md][Math]] 
 
 
-** Math tricks
+*** Math tricks
 
 [[https://github.com/NelsonBilber/CG/blob/master/docs/math.md][Math]] 
