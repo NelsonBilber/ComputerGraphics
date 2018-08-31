@@ -17,5 +17,5 @@ Explore computer graphics API's
 #### Gallery
 
 
-<img src="https://github.com/NelsonBilber/CG/blob/master/imgs/triangles.gif" height="200px" />
+<img src="https://github.com/NelsonBilber/CG/blob/master/docs/imgs/triangles.gif" height="200px" />
 
