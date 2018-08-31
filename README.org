@@ -18,9 +18,9 @@ Research how low level API's work, what is needed to make a simple game loop, ro
 - Color Blending
 - Textures
 
-[[https://github.com/NelsonBilber/CG/blob/master/open_gl.md][Open GL]]
+[[https://github.com/NelsonBilber/CG/blob/master/docs/open_gl.md][Open GL]]
 
-[[Https://github.com/NelsonBilber/CG/blob/master/direct_x.md][Direct X]]
+[[Https://github.com/NelsonBilber/CG/blob/master/docs/direct_x.md][Direct X]]
 
 
 ** Game Engines
@@ -30,16 +30,16 @@ Research how low level API's work, what is needed to make a simple game loop, ro
 
 Samples and drafts about code from udemy course "The Unreal Engine Developer Course"
 
-[[https://github.com/NelsonBilber/CG/blob/master/unreal_engine.md][UnrealEngine 4]] 
+[[https://github.com/NelsonBilber/CG/blob/master/docs/unreal_engine.md][UnrealEngine 4]] 
 
 
 *** Unity
 
 Code from Udemy Course " Game Physics - Introduction Gravitation and Rotation in Unity "
 
-[[https://github.com/NelsonBilber/CG/blob/master/math.md][Math]] 
+[[https://github.com/NelsonBilber/CG/blob/master/docs/math.md][Math]] 
 
 
 ** Math tricks
 
-[[https://github.com/NelsonBilber/CG/blob/master/math.md][Math]] 
+[[https://github.com/NelsonBilber/CG/blob/master/docs/math.md][Math]] 
