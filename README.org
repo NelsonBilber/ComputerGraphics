@@ -18,22 +18,22 @@ Research how low a level graphic API works, what is needed to make a simple game
 - Color Blending
 - Textures
 
-[[https://github.com/NelsonBilber/CG/blob/master/docs/open_gl.md][Open GL]]
+**** Examples with source code
 
-[[Https://github.com/NelsonBilber/CG/blob/master/docs/direct_x.md][Direct X]]
+[[https://github.com/NelsonBilber/CG/blob/master/docs/open_gl.md][Open GL]] [[Https://github.com/NelsonBilber/CG/blob/master/docs/direct_x.md][Direct X]]
 
 
 ** Game Engine
 
 
-*** Unreal Engine 
+**** Unreal Engine 
 
 Samples and drafts about code from udemy course "The Unreal Engine Developer Course"
 
 [[https://github.com/NelsonBilber/CG/blob/master/docs/unreal_engine.md][UnrealEngine 4 Experiments]] 
 
 
-*** Unity
+**** Unity
 
 Code from Udemy Course " Game Physics - Introduction Gravitation and Rotation in Unity "
 
