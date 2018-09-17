@@ -20,7 +20,7 @@ Research how low a level graphic API works, what is needed to make a simple game
 
 **** Examples with source code
 
-[[https://github.com/NelsonBilber/CG/blob/master/docs/open_gl.md][Open GL]] [[Https://github.com/NelsonBilber/CG/blob/master/docs/direct_x.md][Direct X]]
+[[https://github.com/NelsonBilber/CG/blob/master/docs/open_gl.md][OpenGL Samples]] || [[Https://github.com/NelsonBilber/CG/blob/master/docs/direct_x.md][DirectX Samples]]
 
 
 ** Game Engine
