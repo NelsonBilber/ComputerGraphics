@@ -26,3 +26,9 @@ Add HUD widget to viewport, Add two numbers, cast strings, ...
 
 * [Play with Ue4 ](https://github.com/NelsonBilber/ue4.playwithue4) 
 <br/> This repository aim to show some operations that can be done with unreal engine
+
+---
+ 
+### More examples about Computer Graphics
+
+[more](https://github.com/NelsonBilber/ComputerGraphics)
