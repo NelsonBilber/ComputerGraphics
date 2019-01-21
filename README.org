@@ -4,6 +4,7 @@
 
 This repository aims to explore Computer Graphics concepts and tools.
 
+
 ** Graphics API and Shaders
 
 Research how low a level graphic API works, what is needed to make a simple game loop, rotate some cubes, work with light and projections.
